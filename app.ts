@@ -346,3 +346,5 @@ console.log(capitalize("toshkent shahri"));
 // ]);
 // // 30000*2 + 5000*5 = 85000
 // ```
+
+
